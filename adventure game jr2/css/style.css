@@ -1,0 +1,276 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(../img/wake-up2.jpg);
+}
+.image-holder{
+	margin-top: 50px;
+	margin-left: 400px;
+	display: none;
+}
+h1#title{
+	color: white;
+	font-size: 250%;
+	text-align: center;
+	text-shadow: 2px 2px black;
+}
+.knop1 {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+}
+.knop1:hover{
+	background-color: #203737;
+}
+.knoprot {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 700px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+}
+.knoprot:hover{
+	background-color: #203737;
+}
+.knop2 {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knop2:hover{
+	background-color: #203737;
+}
+.knopbridge {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopbridge:hover{
+	background-color: #203737;
+}
+.knopfalldown {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 900px;
+   margin-top: 10px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopfalldown:hover{
+	background-color: #203737;
+}
+.knopforwarddead {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopforwarddead:hover{
+	background-color: #203737;
+}
+.knoplookright {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 800px;
+   margin-top: 10px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knoplookright:hover{
+	background-color: #203737;
+}
+.knopback {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopback:hover{
+	background-color: #203737;
+}
+.knopforward {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopforward:hover{
+	background-color: #203737;
+}
+.knopforward2 {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopforward2:hover{
+	background-color: #203737;
+}
+.knopattack {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopattack:hover{
+	background-color: #203737;
+}
+.knopattack2 {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 200px;
+   margin-top: 400px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopattack2:hover{
+	background-color: #203737;
+}
+.knopdodge {
+	background-color: #121f1f;
+    border: none;
+    color: white;
+   	padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+   margin-left: 800px;
+   margin-top: 10px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+   display: none;
+}
+.knopdodge:hover{
+	background-color: #203737;
+}
